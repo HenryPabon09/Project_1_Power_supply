@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="ZkzUrpGqLLUAdb4OV3YN">
+    <mxGraphModel dx="890" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BngY6yUUl2_eeXkpS9zu-43" edge="1" parent="1" source="BngY6yUUl2_eeXkpS9zu-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="BngY6yUUl2_eeXkpS9zu-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BngY6yUUl2_eeXkpS9zu-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="Power Bus (DC VIN)" vertex="1">
+          <mxGeometry height="30" width="80" x="950" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="BngY6yUUl2_eeXkpS9zu-27" edge="1" parent="1" source="BngY6yUUl2_eeXkpS9zu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BngY6yUUl2_eeXkpS9zu-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BngY6yUUl2_eeXkpS9zu-28" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;24 VDC @ 5 A&lt;/span&gt;" vertex="1">
+          <mxGeometry height="65" width="65" x="840" y="332.5" as="geometry" />
+        </mxCell>
+        <mxCell id="BngY6yUUl2_eeXkpS9zu-41" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;+12V@5A DC/DC&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="200" x="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="BngY6yUUl2_eeXkpS9zu-42" parent="BngY6yUUl2_eeXkpS9zu-41" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Silergy SY8205FCC" vertex="1">
+          <mxGeometry height="50" width="160" x="20" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BngY6yUUl2_eeXkpS9zu-44" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-weight: 400;&quot;&gt;+5V@5A&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;DC/DC&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="200" x="1240" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="BngY6yUUl2_eeXkpS9zu-45" parent="BngY6yUUl2_eeXkpS9zu-44" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Silergy SY8205FCC" vertex="1">
+          <mxGeometry height="50" width="160" x="20" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BngY6yUUl2_eeXkpS9zu-46" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-weight: 400;&quot;&gt;+3.3 V@3A DC/DC&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="200" x="1240" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="BngY6yUUl2_eeXkpS9zu-47" parent="BngY6yUUl2_eeXkpS9zu-46" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Silergy SY8205FCC" vertex="1">
+          <mxGeometry height="50" width="160" x="20" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BngY6yUUl2_eeXkpS9zu-49" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-weight: 400;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;-12 V@1 A&lt;/span&gt;DC/DC&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="200" x="1241" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="BngY6yUUl2_eeXkpS9zu-50" parent="BngY6yUUl2_eeXkpS9zu-49" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="LM76003" vertex="1">
+          <mxGeometry height="50" width="160" x="20" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BngY6yUUl2_eeXkpS9zu-51" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-weight: 400;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;1.25-15V @3A&amp;nbsp;&lt;/span&gt;DC/DC&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="200" x="1240" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="BngY6yUUl2_eeXkpS9zu-52" parent="BngY6yUUl2_eeXkpS9zu-51" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="LM76003" vertex="1">
+          <mxGeometry height="50" width="160" x="20" y="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
