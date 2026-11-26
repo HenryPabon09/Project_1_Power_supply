@@ -112,7 +112,7 @@ La implementación de cada rama, sus componentes y sus condiciones de operación
 |:--|:--|
 | [Electrical power tree](Documentaci%C3%B3n/Electrical%20power%20tree.drawio) | Diagrama de distribución y ramas de potencia |
 | [Documentación del proyecto](Documentaci%C3%B3n/) | Archivos técnicos disponibles en el repositorio |
-| [Datasheet Silergy SY8205FCC](https://www.silergy.com/) | Referencia del fabricante; consultar el documento y revisión correspondiente |
+| Datasheets de componentes | Se incorporarán con sus MPN exactos, revisión y enlace oficial del fabricante una vez verificados y organizados en el repositorio |
 
 Los enlaces a hojas de datos y componentes comerciales deben apuntar a documentos oficiales y referencias exactas. La documentación se ampliará a medida que se consoliden las selecciones y revisiones.
 
