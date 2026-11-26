@@ -1,10 +1,14 @@
 # Project documentation
 
-This directory groups the engineering documentation associated with the Multi-Output Power Supply project.
+This directory groups the technical records and learning evidence produced during the academic project for the course Diseño y Prototipado Electrónico. The power supply design is the practical framework used to apply electronic design methods, good engineering practices and Altium Designer workflows.
 
 ## Available design artifacts
 
 - [Electrical power tree](Electrical%20power%20tree.drawio) — functional power-distribution diagram.
+
+## Learning and development evidence
+
+The documentation is intended to show both the technical result and the process followed to reach it. Where applicable, include design revisions, calculation notes, component selection rationale, Altium project artifacts, PCB review evidence and prototype measurements. Distinguish preliminary work from reviewed or validated results.
 
 ## Documentation structure
 
