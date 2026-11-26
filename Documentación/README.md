@@ -30,6 +30,10 @@ Documentación/
 
 Esta estructura es una guía de organización; las carpetas y documentos se incorporarán cuando exista material correspondiente. No se crearán evidencias ficticias ni se marcarán actividades como terminadas sin respaldo.
 
+## Estado actual del diseño
+
+Se ha añadido el documento [Estado actual del diseño](Estado_actual_del_diseno.md), que registra lo observado en las capturas del esquemático DC-DC y de las vistas 2D/3D de la PCB, además de separar el avance CAD de las verificaciones todavía pendientes.
+
 ## Archivos disponibles
 
 | Archivo | Descripción |
