@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="460" viewBox="0 0 1440 460" role="img" aria-labelledby="title desc">
+<title id="title">Multi-Output Power Supply — Henry Yesith Pabón Chapid</title>
+<desc id="desc">Personal engineering project banner with a dark technical grid, power conversion block diagram and blue-green accents.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101827"/><stop offset="1" stop-color="#182D3A"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#2DD4BF"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#7890A4" stroke-opacity=".12" stroke-width="1"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1440" height="460" rx="24" fill="url(#bg)"/>
+<rect width="1440" height="460" rx="24" fill="url(#grid)"/>
+<path d="M0 365H1440" stroke="#5B7185" stroke-opacity=".28"/>
+<rect x="76" y="66" width="6" height="300" rx="3" fill="url(#accent)"/>
+<text x="112" y="112" fill="#67E8F9" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="5">ENGINEERING PROJECT / 2026</text>
+<text x="108" y="190" fill="#F8FAFC" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="800" letter-spacing="1">MULTI-OUTPUT</text>
+<text x="108" y="252" fill="url(#accent)" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="800" letter-spacing="1">POWER SUPPLY</text>
+<text x="112" y="300" fill="#C2D0DC" font-family="Arial,Helvetica,sans-serif" font-size="21">Laboratory DC power supply · Power electronics · PCB design</text>
+<text x="112" y="390" fill="#E2E8F0" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">HENRY YESITH PABÓN CHAPID</text>
+<text x="112" y="418" fill="#94A3B8" font-family="Arial,Helvetica,sans-serif" font-size="15">Mechatronics Engineering · Universidad Tecnológica de Pereira</text>
+<g transform="translate(880 100)">
+  <rect x="0" y="0" width="470" height="250" rx="18" fill="#0B1420" fill-opacity=".62" stroke="#466174" stroke-opacity=".8"/>
+  <text x="28" y="35" fill="#9FB5C6" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="3">POWER CONVERSION FLOW</text>
+  <g font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" text-anchor="middle">
+    <rect x="26" y="74" width="100" height="58" rx="9" fill="#24384A" stroke="#5D7A8F"/>
+    <text x="76" y="108" fill="#E2E8F0">AC INPUT</text>
+    <path d="M130 103H160" stroke="#4CC9D8" stroke-width="2.5"/><path d="m154 97 7 6-7 6" fill="none" stroke="#4CC9D8" stroke-width="2"/>
+    <rect x="166" y="74" width="112" height="58" rx="9" fill="#1D4051" stroke="#2F91A6"/>
+    <text x="222" y="108" fill="#D9F7FA">RECTIFIER</text>
+    <path d="M282 103H312" stroke="#4CC9D8" stroke-width="2.5"/><path d="m306 97 7 6-7 6" fill="none" stroke="#4CC9D8" stroke-width="2"/>
+    <rect x="318" y="74" width="126" height="58" rx="9" fill="#174C4B" stroke="#2DD4BF"/>
+    <text x="381" y="108" fill="#D1FAF5">DC/DC</text>
+  </g>
+  <path d="M381 133V163H76V181M381 163H394V181" fill="none" stroke="#4CC9D8" stroke-width="2" stroke-opacity=".9"/>
+  <g fill="#132B3A" stroke="#2DD4BF">
+    <rect x="27" y="182" width="94" height="38" rx="7"/><rect x="132" y="182" width="94" height="38" rx="7"/>
+    <rect x="237" y="182" width="94" height="38" rx="7"/><rect x="342" y="182" width="102" height="38" rx="7"/>
+  </g>
+  <g fill="#D5F7F3" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" text-anchor="middle">
+    <text x="74" y="206">+12 V</text><text x="179" y="206">+5 V</text><text x="284" y="206">+3.3 V</text><text x="393" y="206">± / ADJ</text>
+  </g>
+</g>
+<circle cx="1352" cy="70" r="5" fill="#2DD4BF" filter="url(#glow)"/>
+</svg>
