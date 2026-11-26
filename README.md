@@ -9,9 +9,9 @@
   <img src="assets/henry-pabon-power-supply.svg" alt="Multi-Output Power Supply — Henry Yesith Pabón Chapid" width="100%">
 
   <p>
-    <strong>Diseño y desarrollo de una fuente de alimentación DC multisalida para laboratorio.</strong>
+    <strong>Proyecto académico de Diseño y Prototipado Electrónico.</strong>
     <br>
-    Electrónica de potencia · Conversión DC/DC · Diseño de PCB · Validación
+    Aprendizaje aplicado · Buenas prácticas de diseño · Altium Designer · Prototipado
   </p>
 
   <p>
@@ -34,11 +34,13 @@
 
 ## ⚡ Visión general
 
-**Multi-Output Power Supply** es un proyecto académico de diseño electrónico orientado al desarrollo de una fuente de alimentación DC para laboratorio. El sistema contempla una etapa de entrada mediante transformador AC, rectificación con puente de diodos, filtrado capacitivo y regulación mediante convertidores DC/DC integrados en una PCB.
+**Multi-Output Power Supply** es un proyecto académico desarrollado en el marco de la asignatura **Diseño y Prototipado Electrónico** del programa de Ingeniería Mecatrónica de la Universidad Tecnológica de Pereira.
 
-El objetivo es disponer de diferentes niveles de tensión para alimentar circuitos y prototipos electrónicos, manteniendo una arquitectura modular que facilite el análisis, la implementación y la validación de cada etapa.
+La fuente multisalida es el medio práctico para aplicar y fortalecer los conocimientos de diseño electrónico. El propósito no es únicamente obtener un circuito funcional: también es aprender a desarrollar un proyecto electrónico con un flujo de trabajo organizado, tomar decisiones técnicas justificadas, documentar el proceso y aplicar buenas prácticas de diseño.
 
-> **Alcance:** este repositorio reúne la documentación técnica, diagramas, selección de componentes, cálculos y archivos de diseño asociados al desarrollo. Los valores indicados corresponden a las especificaciones del proyecto; no deben interpretarse como resultados de pruebas ya validadas.
+Durante el desarrollo hemos profundizado especialmente en el uso de **Altium Designer**, desde la preparación del proyecto y la elaboración de esquemáticos hasta el trabajo con componentes, bibliotecas y diseño de PCB. El repositorio busca dejar evidencia de ese proceso de aprendizaje, de las decisiones tomadas y de los archivos técnicos generados.
+
+> **Enfoque académico:** los diagramas, cálculos, esquemáticos y archivos de PCB son parte del proceso de aprendizaje y desarrollo. El estado de diseño, fabricación y validación se indicará de forma explícita para diferenciar el trabajo realizado de las pruebas que aún estén pendientes.
 
 ## 👤 Autor
 
@@ -47,7 +49,7 @@ Estudiante de Ingeniería Mecatrónica
 Universidad Tecnológica de Pereira · Facultad de Tecnología  
 Pereira, Colombia · 2026
 
-Este repositorio forma parte de mi trabajo de diseño y prototipado electrónico, con énfasis en electrónica de potencia, selección de componentes y diseño de PCB.
+Este repositorio documenta el trabajo realizado durante la asignatura, los conocimientos adquiridos y la aplicación de buenas prácticas de diseño y prototipado electrónico, con especial atención al flujo de trabajo en Altium Designer.
 
 ## 🔌 Especificaciones del sistema
 
@@ -96,6 +98,19 @@ Bus DC
 
 La implementación de cada rama, sus componentes y sus condiciones de operación se documentarán conforme avance el diseño. Consulta el diagrama de distribución de potencia disponible en la sección de documentación.
 
+## 🎓 Aprendizajes y competencias
+
+El desarrollo de este proyecto ha permitido fortalecer conocimientos y habilidades relacionados con:
+
+- Aplicación de buenas prácticas durante el diseño y la documentación de circuitos electrónicos.
+- Manejo de Altium Designer como entorno de trabajo para el desarrollo electrónico y el diseño de PCB.
+- Organización de proyectos, esquemáticos, componentes y documentación técnica.
+- Interpretación de hojas de datos y consideración de parámetros eléctricos al seleccionar componentes.
+- Representación de la arquitectura y distribución de potencia mediante diagramas.
+- Uso de herramientas de apoyo para realizar estimaciones y comprobaciones propias del diseño de PCB.
+
+Estos puntos representan los aprendizajes trabajados en la asignatura; los archivos y evidencias del repositorio permiten mostrar cómo se aplicaron durante el proyecto.
+
 ## 🛠️ Herramientas de desarrollo
 
 | Herramienta | Aplicación |
@@ -118,7 +133,7 @@ Los enlaces a hojas de datos y componentes comerciales deben apuntar a documento
 
 ## 🧪 Desarrollo
 
-El trabajo se organiza en las siguientes etapas:
+El proyecto se desarrolla como un proceso académico y práctico. Las actividades principales incluyen:
 
 - [ ] Consolidación y trazabilidad de requerimientos.
 - [ ] Definición y revisión de la arquitectura eléctrica.
@@ -148,7 +163,7 @@ Los valores finales, tolerancias y criterios de aceptación se documentarán con
 
 ## 📌 Estado del proyecto
 
-**En desarrollo.** Este repositorio se actualizará progresivamente con los cálculos, esquemáticos, archivos de PCB, documentación de componentes y resultados de validación.
+**Proyecto académico en desarrollo.** El repositorio se actualizará progresivamente con los avances de diseño, ejercicios de aplicación, decisiones técnicas, archivos de Altium, documentación de componentes y evidencias de prototipado y validación.
 
 ---
 
