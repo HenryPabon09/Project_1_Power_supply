@@ -126,10 +126,10 @@ Estos puntos representan los aprendizajes trabajados en la asignatura; los archi
 | Recurso | Descripción |
 |:--|:--|
 | [Electrical power tree](Documentaci%C3%B3n/Electrical%20power%20tree.drawio) | Diagrama de distribución y ramas de potencia |
-| [Documentación del proyecto](Documentaci%C3%B3n/) | Archivos técnicos disponibles en el repositorio |
+| [Índice de documentación](Documentaci%C3%B3n/README.md) | Estructura, criterios y convenciones para organizar los documentos técnicos y evidencias de aprendizaje |
 | Datasheets de componentes | Se incorporarán con sus MPN exactos, revisión y enlace oficial del fabricante una vez verificados y organizados en el repositorio |
 
-Los enlaces a hojas de datos y componentes comerciales deben apuntar a documentos oficiales y referencias exactas. La documentación se ampliará a medida que se consoliden las selecciones y revisiones.
+La documentación se organizará por etapas: requerimientos, arquitectura, cálculos, componentes, desarrollo en Altium, PCB, prototipado y validación. Consulta el [índice de documentación](Documentaci%C3%B3n/README.md) para conocer la estructura prevista y los criterios de registro. Los enlaces a hojas de datos y componentes comerciales deben apuntar a documentos oficiales y referencias exactas.
 
 ## 🧪 Desarrollo
 
