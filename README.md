@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/HenryPabon09/Project_1_Power_supply/main/assets/henry-pabon-power-supply.svg" alt="Multi-Output Power Supply — Henry Yesith Pabón Chapid" width="100%">
+  ![Multi-Output Power Supply — Henry Yesith Pabón Chapid](assets/henry-pabon-power-supply.svg)
 
   <p>
     <strong>Proyecto académico de Diseño y Prototipado Electrónico.</strong>
