@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img src="assets/henry-pabon-power-supply.svg" alt="Multi-Output Power Supply — Henry Yesith Pabón Chapid" width="100%">
+  <img src="https://raw.githubusercontent.com/HenryPabon09/Project_1_Power_supply/main/assets/henry-pabon-power-supply.svg" alt="Multi-Output Power Supply — Henry Yesith Pabón Chapid" width="100%">
 
   <p>
     <strong>Proyecto académico de Diseño y Prototipado Electrónico.</strong>
@@ -121,12 +121,18 @@ Estos puntos representan los aprendizajes trabajados en la asignatura; los archi
 | **DigiKey / LCSC** | Consulta y verificación de componentes comerciales |
 | **Datasheets oficiales** | Verificación de límites y características eléctricas |
 
+## 🧩 Estado actual del diseño
+
+Ya se dispone de esquemáticos de la etapa DC-DC y de vistas 2D y 3D de la PCB elaboradas en Altium Designer. En el esquemático se distinguen cinco ramas de conversión desde 24 V; las vistas de PCB permiten revisar la distribución de componentes y las notas preliminares de fabricación.
+
+Este avance corresponde al diseño en CAD. No debe interpretarse como evidencia de fabricación ni de validación eléctrica, térmica o funcional. El detalle de lo observado y las verificaciones pendientes se encuentra en [Estado actual del diseño](Documentaci%C3%B3n/Estado_actual_del_diseno.md).
+
 ## 📁 Documentación
 
 | Recurso | Descripción |
 |:--|:--|
 | [Electrical power tree](Documentaci%C3%B3n/Electrical%20power%20tree.drawio) | Diagrama de distribución y ramas de potencia |
-| [Índice de documentación](Documentaci%C3%B3n/README.md) | Estructura, criterios y convenciones para organizar los documentos técnicos y evidencias de aprendizaje |
+| [Índice de documentación](Documentaci%C3%B3n/README.md) | Estructura, criterios y convenciones para organizar los documentos técnicos y evidencias de aprendizaje |\n| [Estado actual del diseño](Documentaci%C3%B3n/Estado_actual_del_diseno.md) | Registro del esquemático DC-DC y las vistas 2D/3D de PCB, con verificaciones pendientes |
 | Datasheets de componentes | Se incorporarán con sus MPN exactos, revisión y enlace oficial del fabricante una vez verificados y organizados en el repositorio |
 
 La documentación se organizará por etapas: requerimientos, arquitectura, cálculos, componentes, desarrollo en Altium, PCB, prototipado y validación. Consulta el [índice de documentación](Documentaci%C3%B3n/README.md) para conocer la estructura prevista y los criterios de registro. Los enlaces a hojas de datos y componentes comerciales deben apuntar a documentos oficiales y referencias exactas.
